@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dluna96
 - 👀 I’m interested in coding and cybersecurity
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on other languages such as python, java.
+- 🌱 I’m currently learning javascript, java, and C++
+- 💞️ I’m looking to collaborate on other languages such as python
 - 📫 How to reach me: email:dluna1996@gmail.com
 
 <!---
